@@ -1,0 +1,17 @@
+pandas>=2.1
+nbformat>=5.10.4
+numpy
+plotly
+statsmodels>=0.14.2
+streamlit
+yfinance
+xgboost
+scikit-learn
+python-dotenv
+requests
+google-cloud-bigquery
+google-cloud-bigquery-storage
+pyarrow
+joblib
+vectorbt
+tqdm
