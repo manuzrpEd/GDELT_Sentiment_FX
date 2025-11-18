@@ -14,8 +14,6 @@ Independent research project developing a **production-grade, zero-look-ahead ne
 
 This is a **full-stack systematic macro research pipeline** built to institutional standards.
 
-**Currently in active development** — final results to be published upon completion.
-
 ---
 
 ### Key Features
@@ -56,13 +54,7 @@ It demonstrates:
 
 ---
 
-### Status: Work in Progress
-
-Currently finalizing:
-- Walk-forward hyperparameter optimization
-- Robustness checks
-- Transaction cost modeling and position sizing refinements
-
-**Out-of-sample performance (2024–present) under strict no-peeking protocol** — results will be published upon completion.
-
----
+⚠️ Disclaimer: This repository is an orientative research prototype. 
+It demonstrates how GDELT 2.0 event data can be transformed into 
+systematic FX sentiment signals using machine learning. 
+It is not a production trading system, nor investment advice.
