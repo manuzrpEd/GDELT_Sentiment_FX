@@ -52,7 +52,7 @@ It demonstrates:
 - Deep understanding of **news sentiment as a macro predictor**
 - Production-grade **data engineering & feature engineering** with alternative datasets
 - Institutional **research discipline** (walk-forward, no overfitting, clean OOS)
-- Ability to deliver **live, client-facing tools** (Jupiter notebooks)
+- Ability to deliver **live, client-facing tools** (Jupyter notebooks)
 
 ---
 
