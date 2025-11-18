@@ -4,6 +4,7 @@
 **Author**: Manuel Antonio Sánchez García  
 PhD Economics
 manuel.sanchez.garcia@protonmail.com · +34 644 402 872
+LinkedIn: [linkedin.com/in/manuel-sanchez-garcia](https://www.linkedin.com/in/manuel-antonio-sanchez-garcia-6b3a7a136/)
 
 ---
 
@@ -63,28 +64,5 @@ Currently finalizing:
 - Transaction cost modeling and position sizing refinements
 
 **Out-of-sample performance (2024–present) under strict no-peeking protocol** — results will be published upon completion.
-
----
-
-### About the Author
-
-Former **Sentiment Data Scientist at RavenPack** (2022–2023), where I:
-- Built and productionized NLP-driven sentiment indices for G7 FX
-- Worked directly with macro hedge funds on alpha generation and signal delivery
-- Delivered research replicators in Python for portfolio managers
-
-Previously:
-- Specialist Data Analyst at **CHEP España** (Dec 2023 – Now) — supply chain optimization using time-series ML
-- Deep Learning Engineer at Predictiva (Edinburgh)
-- Decision Engine Analyst at Ilumoni (fintech)
-
-Spanish national with **UK pre-settled status** → immediate work authorization in the UK.
-
-Currently seeking **Quantitative Researcher / Systematic Macro / Macro Pod** roles in **London, Geneva, or Madrid**.
-
-Open to conversations.
-
-manuel.sanchez.garcia@protonmail.com  
-LinkedIn: [linkedin.com/in/manuel-sanchez-garcia](https://www.linkedin.com/in/manuel-antonio-sanchez-garcia-6b3a7a136/)
 
 ---
